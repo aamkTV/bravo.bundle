@@ -1,12 +1,12 @@
 VIDEO_PREFIX = "/video/bravo"
 
-NAME = L('Title')
+NAME = L('Bravo')
 
 # make sure to replace artwork with what you want
 # these filenames reference the example files in
 # the Contents/Resources/ folder in the bundle
 ART  = 'art-default.jpg'
-ICON = 'icon-default.png'
+ICON = 'icon-default.jpg'
 
 ####################################################################################################
 
